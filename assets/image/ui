@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "6.png",
+	"frame": {"x":1114,"y":169,"w":69,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":35},
+	"sourceSize": {"w":69,"h":35}
+},
+{
+	"filename": "9.png",
+	"frame": {"x":1114,"y":206,"w":64,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":18},
+	"sourceSize": {"w":64,"h":18}
+},
+{
+	"filename": "bird1.png",
+	"frame": {"x":1237,"y":136,"w":50,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":35},
+	"sourceSize": {"w":50,"h":35}
+},
+{
+	"filename": "bird2.png",
+	"frame": {"x":1204,"y":99,"w":50,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":35},
+	"sourceSize": {"w":50,"h":35}
+},
+{
+	"filename": "bird3.png",
+	"frame": {"x":1185,"y":169,"w":50,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":35},
+	"sourceSize": {"w":50,"h":35}
+},
+{
+	"filename": "building1.png",
+	"frame": {"x":2,"y":99,"w":1200,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1200,"h":68},
+	"sourceSize": {"w":1200,"h":68}
+},
+{
+	"filename": "building2.png",
+	"frame": {"x":2,"y":169,"w":900,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":68},
+	"sourceSize": {"w":900,"h":68}
+},
+{
+	"filename": "button.png",
+	"frame": {"x":904,"y":169,"w":208,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":208,"h":66},
+	"sourceSize": {"w":208,"h":66}
+},
+{
+	"filename": "cloud1.png",
+	"frame": {"x":902,"y":2,"w":898,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":898,"h":95},
+	"sourceSize": {"w":898,"h":95}
+},
+{
+	"filename": "cloud2.png",
+	"frame": {"x":2,"y":2,"w":898,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":898,"h":95},
+	"sourceSize": {"w":898,"h":95}
+},
+{
+	"filename": "progress.png",
+	"frame": {"x":1180,"y":206,"w":353,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":353,"h":16},
+	"sourceSize": {"w":353,"h":16}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "ui.png",
+	"format": "RGBA8888",
+	"size": {"w":1802,"h":239},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a3f1e27f73313fa02b296cbae082c7ac$"
+}
+}
